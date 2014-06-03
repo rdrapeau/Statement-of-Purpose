@@ -1,13 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1401258924 "grad_school.tex" "grad_school.pdf" "grad_school" 1401258924
+["pdflatex"] 1401612022 "grad_school.tex" "grad_school.pdf" "grad_school" 1401612023
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/latex209.def" 1254151887 14704 a7e97ce6f41cceee174564f0d990c017 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty" 1254151887 2717 322ad1a37c6c9974574bf6f55cbc9d77 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo" 1254151887 9053 a28d9b3c915d12545f3d5e7c4986be20 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/base/tracefnt.sty" 1254151887 8500 906c11ba8cb5c1b955f0c0dd853bc38d ""
-  "/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd" 1254151887 1873 1e483a609ec3be8f16f6337fa0dc20e3 ""
-  "grad_school.aux" 1401258924 8 a94a2480d3289e625eea47cd1b285758 ""
-  "grad_school.tex" 1401258923 3937 a98e26c84a81537520107805b2fa6432 ""
+  "grad_school.aux" 1401612023 8 a94a2480d3289e625eea47cd1b285758 ""
+  "grad_school.tex" 1401612022 4275 277376e0214f15b5159721207342b2f0 ""
   (generated)
   "grad_school.log"
   "grad_school.pdf"
